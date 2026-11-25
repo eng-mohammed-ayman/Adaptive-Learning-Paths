@@ -4,9 +4,9 @@ An interpretable decision-tree coursework project that assigns student performan
 
 ## Team and scope
 
-Coursework team, as credited in the supplied report: Mohamed Ayman, Hamed Ahmed and Mostafa El-Demiry. Mohamed wrote the report and presentation and studied the code to understand it. Implementation belongs to the team project; this repository makes no claim that Mohamed independently wrote the model or notebook. This is a GitHub coursework entry, not an addition to his CV.
+Coursework team, as credited in the supplied report: Mohamed Ayman, Hamed Ahmed and Mostafa El-Demiry. Mohamed wrote the report and presentation and worked through the decision-tree code and results. The model and notebook are team project code.
 
-The labels are constructed from final grade `G3`: below 10 is `remedial`, 10 to below 15 is `standard`, and 15 or above is `advanced`. `G3` is then removed from the predictors. These are project-defined grade bands, not validated teaching recommendations or demonstrated improvements in student learning.
+The labels are constructed from final grade `G3`: below 10 is `remedial`, 10 to below 15 is `standard`, and 15 or above is `advanced`. `G3` is then removed from the predictors. These are project-defined grade bands.
 
 ## Reproduce locally
 
